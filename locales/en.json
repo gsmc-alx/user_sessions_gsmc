@@ -22,5 +22,6 @@
     "events_last_month": "User Events Past Month",
     "events_last_year": "User Events Past Year",
     "last_user_uid": "Last User UID",
-    "uid": "UID"
+    "uid": "UID",
+    "manifest": "Manifest"
 }

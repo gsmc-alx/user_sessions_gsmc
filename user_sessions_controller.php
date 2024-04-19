@@ -4,7 +4,7 @@
  * user_sessions module class
  *
  * @package munkireport
- * @author tuxudo
+ * @author tuxudo / gsmc-alx
  **/
 class User_sessions_controller extends Module_controller
 {
@@ -18,7 +18,7 @@ class User_sessions_controller extends Module_controller
 
 	/**
 	 * Default method
-	 * @author tuxudo
+	 * @author tuxudo / gsmc-alx
 	 *
 	 **/
 	function index()

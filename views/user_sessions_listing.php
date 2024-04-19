@@ -15,6 +15,7 @@
 		      	<th data-i18n="user_sessions.uid" data-colname='user_sessions.uid'></th>		      	
 		      	<th data-i18n="user_sessions.ipaddress" data-colname='user_sessions.remote_ssh'></th>
 		      	<th data-i18n="user_sessions.time" data-colname='user_sessions.time'></th>
+				<th data-i18n="user_sessions.manifest" data-colname='user_sessions.manifest'></th>
 		      </tr>
 		    </thead>
 		    <tbody>

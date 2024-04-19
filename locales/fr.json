@@ -10,5 +10,6 @@
     "login": "Connexion",
     "logout": "Déconnexion",
     "last_user_uid": "Last User UID",
-    "uid": "UID"
+    "uid": "UID",
+    "manifest": "Manifest"
 }
